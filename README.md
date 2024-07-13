@@ -34,13 +34,13 @@ Taskify is a simple note-taking Android application built using Jetpack Compose 
   - Firebase project (for Firestore)
 ### Installation
   1. Clone the repository:
-    ```<br/>
-    git clone https://github.com/Schime/Taskify_mobile_application.git
     ```
-  2. Open the project in Android Studio
-  3. Configure Firebase:
+git clone https://github.com/Schime/Taskify_mobile_application.git
+    ```
+  3. Open the project in Android Studio
+  4. Configure Firebase:
      - Add your 'google-services.json' file to the 'app' directory
-  4. Build and run the project on an emulator or physical device.
+  5. Build and run the project on an emulator or physical device.
 
 ## Usage
 ### Main Screen
